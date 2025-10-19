@@ -41,3 +41,7 @@ O objetivo deste projeto é criar uma experiência de navegação limpa e intuit
 Daniel Fealsi
 💼 Desenvolvedor Web | 🎓 Estudante de Programação
 📎 Projeto criado para fins de estudo e prática de front-end.
+
+🪪 Licença
+
+Este projeto está sob a licença MIT – sinta-se à vontade para usar e modificar.
